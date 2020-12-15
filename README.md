@@ -21,3 +21,7 @@ In any way it is good to practice C.
 Currently this code is kind broken, I am struggling with strings dynamic 
 reallocation in C and probably making some mistake with pointers and values.
 
+
+## node-version
+
+There is also a first experiment using tree-sitter node bindings
