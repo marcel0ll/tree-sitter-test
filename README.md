@@ -25,3 +25,8 @@ reallocation in C and probably making some mistake with pointers and values.
 ## node-version
 
 There is also a first experiment using tree-sitter node bindings
+
+```sh
+npm install
+node index.js
+```
